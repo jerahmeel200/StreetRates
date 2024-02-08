@@ -1,0 +1,90 @@
+/* .search-table {
+  margin: 0;
+}
+
+
+th {
+  padding: 20px 7px;
+  font-size: 15px;
+  color: #444;
+}
+td {
+  padding: 5px 10px;
+  height: 35px;
+}
+
+.search-table-outter { */
+/* overflow-x: scroll; */
+/* }
+th,
+td {
+  min-width: 400px;
+}
+
+.search-table {
+  border: 1px solid #cbd5e1;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.search-table-outter {
+  border-radius: 5px;
+}
+@media screen and (max-width: 1240px) {
+  th,
+  td {
+    min-width: 300px;
+  }
+}
+@media screen and (max-width: 780px) {
+  th,
+  td {
+    min-width: 200px;
+  }
+  @media screen and (max-width: 480px) {
+    th,
+    td {
+      min-width: 0px;
+    }
+  }
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  opacity: 100 !important;
+} */
+
+/* Tooltip text */
+/* .tooltip .tooltiptext {
+  font-family: "inter";
+  visibility: hidden;
+  width: 120px;
+  background-color: #fff;
+  color: #000;
+  border: 1px solid #0062ff;
+  border-radius: 16px;
+  text-align: center;
+  padding: 2px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1 !important;
+}
+.tooltip .tooltiptext::after {
+  content: " ";
+  position: absolute;
+  top: 50%;
+  right: 100%; /* To the left of the tooltip */
+/* margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  transform: transform 0.4s ease-out; */
+
+td,
+th {
+  border-collapse: collapse;
+}
